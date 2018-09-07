@@ -43,6 +43,7 @@ textarea {
 .img-responsive {
     border: 5px solid black;
     border-radius: 120px;
+    height: 300px;
 }
 
 #mainNav {
@@ -57,38 +58,71 @@ textarea {
     font-family:'Times New Roman', Times, serif;
 }
 
-#input7 {
-    margin-right:393px;
-}
 
 #btnmathS2 {
-    margin-left: 260px;
+    margin-right: 515px;
 }
 
 #btnmath3 {
-    margin-left: 260px;
+    margin-right: 515px;
 }
 
-#input6 {
-    margin-right: 150px;
-}
 
 #btnmathS1 {
-    margin-left: 260px;
+    margin-right: 515px;
 }
 
 #btnmath2 {
-    margin-left: 260px;
+    margin-right: 515px;
 }
 
 #btnmathS4 {
-    margin-left: 510px;
+   margin-right: 515px;
 }
 #btnfb {
-    margin-left: 510px;
+    margin-right: 515px;
 }
 
-.modal-body {
-    width: 500px;
+#fbout {
+    background-color: lightseagreen;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 300px;
 }
+
+#factor {
+    background-color: lightseagreen;
+    border: 5px solid black;
+    border-radius: 5px;
+    width:200px;
+    height: 30px;
+    margin-left: 300px;
+}
+
+#reverse {
+    background-color: lightseagreen;
+    border: 5px solid black;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    margin-left: 338px;
+}
+
+.col-md-5 {
+    background-color: lightseagreen;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+
+.heading {
+    margin-top: 20px;
+    background-color: lightseagreen;
+    border: 5px solid black;
+    border-radius: 5px;
+    width: 140px;
+    margin-left: 100px;
+}
+
+
+
 
